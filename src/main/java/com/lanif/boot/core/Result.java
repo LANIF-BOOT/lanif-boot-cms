@@ -1,4 +1,4 @@
-package com.company.project.core;
+package com.lanif.boot.core;
 
 import com.alibaba.fastjson.JSON;
 
